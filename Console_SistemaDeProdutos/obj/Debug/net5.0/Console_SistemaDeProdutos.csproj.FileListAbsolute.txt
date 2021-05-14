@@ -1,0 +1,16 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercicio_Consoles\Console_SistemaDeProdutos\bin\Debug\net5.0\Console_SistemaDeProdutos.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercicio_Consoles\Console_SistemaDeProdutos\bin\Debug\net5.0\Console_SistemaDeProdutos.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercicio_Consoles\Console_SistemaDeProdutos\bin\Debug\net5.0\Console_SistemaDeProdutos.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercicio_Consoles\Console_SistemaDeProdutos\bin\Debug\net5.0\Console_SistemaDeProdutos.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercicio_Consoles\Console_SistemaDeProdutos\bin\Debug\net5.0\Console_SistemaDeProdutos.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercicio_Consoles\Console_SistemaDeProdutos\bin\Debug\net5.0\ref\Console_SistemaDeProdutos.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercicio_Consoles\Console_SistemaDeProdutos\bin\Debug\net5.0\Console_SistemaDeProdutos.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercicio_Consoles\Console_SistemaDeProdutos\obj\Debug\net5.0\Console_SistemaDeProdutos.csprojAssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercicio_Consoles\Console_SistemaDeProdutos\obj\Debug\net5.0\Console_SistemaDeProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercicio_Consoles\Console_SistemaDeProdutos\obj\Debug\net5.0\Console_SistemaDeProdutos.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercicio_Consoles\Console_SistemaDeProdutos\obj\Debug\net5.0\Console_SistemaDeProdutos.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercicio_Consoles\Console_SistemaDeProdutos\obj\Debug\net5.0\Console_SistemaDeProdutos.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercicio_Consoles\Console_SistemaDeProdutos\obj\Debug\net5.0\Console_SistemaDeProdutos.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercicio_Consoles\Console_SistemaDeProdutos\obj\Debug\net5.0\ref\Console_SistemaDeProdutos.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercicio_Consoles\Console_SistemaDeProdutos\obj\Debug\net5.0\Console_SistemaDeProdutos.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercicio_Consoles\Console_SistemaDeProdutos\obj\Debug\net5.0\Console_SistemaDeProdutos.genruntimeconfig.cache

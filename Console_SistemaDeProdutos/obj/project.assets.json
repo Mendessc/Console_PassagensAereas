@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucas\\OneDrive\\Área de Trabalho\\Exercicio_Consoles\\Console_PassagemAviao\\Console_PassagemAviao.csproj",
-      "projectName": "Console_PassagemAviao",
-      "projectPath": "C:\\Users\\lucas\\OneDrive\\Área de Trabalho\\Exercicio_Consoles\\Console_PassagemAviao\\Console_PassagemAviao.csproj",
+      "projectUniqueName": "C:\\Users\\lucas\\OneDrive\\Área de Trabalho\\Exercicio_Consoles\\Console_SistemaDeProdutos\\Console_SistemaDeProdutos.csproj",
+      "projectName": "Console_SistemaDeProdutos",
+      "projectPath": "C:\\Users\\lucas\\OneDrive\\Área de Trabalho\\Exercicio_Consoles\\Console_SistemaDeProdutos\\Console_SistemaDeProdutos.csproj",
       "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucas\\OneDrive\\Área de Trabalho\\Exercicio_Consoles\\Console_PassagemAviao\\obj\\",
+      "outputPath": "C:\\Users\\lucas\\OneDrive\\Área de Trabalho\\Exercicio_Consoles\\Console_SistemaDeProdutos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"
